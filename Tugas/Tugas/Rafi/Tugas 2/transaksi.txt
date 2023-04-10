@@ -1,0 +1,1 @@
+[{"user": "c", "to": "self", "amount": 100, "type": "deposit"}, {"user": "c", "to": "self", "amount": 10, "type": "withdraw"}, {"user": "c", "to": "a", "amount": 10, "type": "transfer"}, {"user": "a", "to": "self", "amount": 3000, "type": "deposit"}, {"user": "a", "to": "self", "amount": 2000, "type": "withdraw"}]
